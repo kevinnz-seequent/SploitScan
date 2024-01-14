@@ -16,7 +16,7 @@ SploitScan is a powerful and user-friendly tool designed to streamline the proce
 ## 🚀 Usage
 
 ```bash
-python cve_poc.py CVE-YYYY-NNNNN
+python sploitscan.py CVE-YYYY-NNNNN
 ```
 
 <img width="862" alt="image" src="https://github.com/xaitax/SploitScan/assets/5014849/5414a8a8-67ae-4fcf-b3b3-3c5003892e08">
